@@ -7,9 +7,9 @@ begin
     gem.name = "tvdb"
     gem.summary = %Q{Ruby wrapper for TheTVDB}
     gem.description = %Q{Ruby wrapper for accessing TV shows information from the TheTVDB API}
-    gem.email = "alvarobp@gmail.com"
-    gem.homepage = "http://github.com/alvarobp/tvdb"
-    gem.authors = ["Álvaro Bautista"]
+    gem.email = "shrikant.patnaikQ@gmail.com"
+    gem.homepage = "https://github.com/shrikantpatnaik/tvdb"
+    gem.authors = ["Shrikant Patnaik"]
     gem.add_development_dependency "rspec", ">= 1.2.9"
     gem.add_dependency "hpricot", ">= 0.8.1"
     gem.add_dependency "rubyzip", ">= 0.9.1"
